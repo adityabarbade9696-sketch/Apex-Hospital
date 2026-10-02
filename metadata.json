@@ -1,0 +1,6 @@
+{
+  "name": "Apex Memorial Teaching Hospital & Research Centre",
+  "description": "Premier 1,850-bed academic teaching hospital and clinical research center featuring 42 specialties, 24/7 Level 1 Trauma, organ transplant, and accredited postgraduate medical education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
